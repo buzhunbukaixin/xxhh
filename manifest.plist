@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>com.lhkj.zhongxin.x</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>cmcapp</string>
+                <string>test</string>
             </dict>
         </dict>
     </array>
