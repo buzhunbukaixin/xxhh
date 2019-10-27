@@ -1,85 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?XML version="1.0" encoding="UTF-8"?>	<?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+ <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
-<plist version="1.0">
+ <plist version="1.0">	<plist version="1.0">
 
-<dict>
-
-<key>items</key>
-
-<array>
-
-<dict>
-
-<key>assets</key>
-
-<array>
-
-<dict>
-
-<key>kind</key>
-
-<string>software-package</string>
-
-<key>url</key>
-
-<string>http://45.195.25.71/admin/app/234.ipa</string>
-
-</dict>
-
-<dict>
-
-<key>kind</key>
-
-<string>display-image</string>
-
-<key>url</key>
-
-<string>http://45.195.25.71/images/logo57.png</string>
-
-</dict>
-
-<dict>
-
-<key>kind</key>
-
-<string>full-size-image</string>
-
-<key>url</key>
-
-<string>http://45.195.25.71/images/logo512.png</string>
-
-</dict>
-
-</array>
-
-<key>metadata</key>
-
-<dict>
-
-<key>bundle-identifier</key>
-
-<string>com.aoxing.app</string>
-
-<key>bundle-version</key>
-
-<string>1.0.1</string>
-
-<key>kind</key>
-
-<string>software</string>
-
-<key>title</key>
-
-<string>新悦APP</string>
-
-</dict>
-
-</dict>
-
-</array>
-
-</dict>
-
-</plist>
+ <dict>	<dict>
+    <key>items</key>	
+     <array>	<key>items</key>
+        <dict>	
+             <key>assets</key>	<array>
+            <array>	
+                 <dict>	<dict>
+                    <key>kind</key>	
+                     <string>software-package</string>	<key>assets</key>
+                    <key>url</key>	
+                     <string>http://45.195.25.71/admin/app/234.ipa</string>	<array>
+                </dict>	
+             </array>	<dict>
+            <key>metadata</key>	
+             <dict>	<key>kind</key>
+                <key>bundle-identifier</key>	
+                 <string>com.aoxing.app</string>	<string>software-package</string>
+                <key>bundle-version</key>	
+                 <string>1.0.0</string>	<key>url</key>
+                <key>kind</key>	
+                 <string>software</string>	<string>http://45.195.25.71/admin/app/234.ipa</string>
+                <key>title</key>	
+                 <string>down</string>	</dict>
+            </dict>	
+         </dict>	<dict>
+    </array>
